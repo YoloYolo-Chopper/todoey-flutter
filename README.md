@@ -1,6 +1,6 @@
 # todoey_flutter
 
-A new Flutter project.
+This is a hands-on practice project developed while following Angela Yu’s Flutter Development Bootcamp. 
 
 ## Getting Started
 
